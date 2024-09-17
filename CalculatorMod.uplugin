@@ -21,5 +21,6 @@
 			"SemVersion": "^3.8.0-dev"
 		}
 	],
-	"SemVersion": "1.0.0"
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=365306"
 }
